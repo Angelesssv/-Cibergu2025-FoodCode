@@ -1,0 +1,68 @@
+# Miscellaneous
+.DS_Store
+.env
+.vscode/
+
+# Build files
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.idea/
+.gradle/
+local.properties
+/android/app/src/debug/
+/android/app/src/release/
+/ios/.symlinks/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/flutter_assets/
+/ios/Flutter/flutter_modules_shared_resources/
+/ios/Flutter/Generated.xcconfig
+/ios/Pods/
+/ios/.flutter-plugins
+/ios/.flutter-plugins-dependencies
+/ios/.packages
+
+# Android specific
+*.apk
+*.ap_
+*.aab
+*.aar
+build/
+captures/
+.externalNativeBuild/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+app/build/
+app/src/main/assets/
+gradle-wrapper.jar
+local.properties
+proguard-rules.pro
+
+# iOS specific
+.build/
+.swiftpm/
+*.ipa
+xcuserdata/
+
+# macOS specific
+.fvm/
+.flutter-tool-cache/
+.flutter-packages
+.plugin_symlinks/
+.pub-cache/
+
+# If you use code generation, add these
+*.g.dart
+*.freezed.dart
+
+# Generated files
+assets/AssetManifest.json
+assets/FontManifest.json
+assets/NOTICES
